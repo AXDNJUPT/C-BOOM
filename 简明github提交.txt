@@ -1,0 +1,11 @@
+这里记载我对Github的学习
+
+#分支
+git branch a #创建
+git checkout a #转换
+
+# 提交
+git clone xxxxx.git  #远程仓库克隆到本地仓库
+git add 文件
+git commit -m "commit src file" #提交到本地仓库
+git push origin 分支
